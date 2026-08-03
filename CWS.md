@@ -77,7 +77,7 @@ The NSO Group are under-pressure from civil rights activitsts and humanitarian g
 [Maker of Pegasus spyware told to pay $167m for WhatsApp hack](https://www.bbc.co.uk/news/articles/c77n76kzmz4o). The final settlement was around $4.5m.
 
 ### Mobile networks
-The international calling code for Israel is +972 with +970 being used for the Occupied Territories (see [Telephone numbers in Palestine](https://en.wikipedia.org/wiki/Telephone_numbers_in_Palestine)). Numbers with the +970 prefix are served by the Jawwal and Wataniya networks. Voice and SMS data sent over the Jawwal and Wataniya networks can be easily monitored by the IDF.
+The international calling code for Israel is +972 with +970 being used for the Occupied Territories (see [Telephone numbers in Palestine](https://en.wikipedia.org/wiki/Telephone_numbers_in_Palestine)). Numbers with the +970 prefix are served by the Jawwal and Wataniya networks. Voice and SMS data sent over these networks can be easily monitored by the IDF.
 > Radio signals from your phone terminate at the operator’s tower, where air-interface encryption is decrypted before being routed into the wired core network.  
 
 This is because the _operator_ in this case is Unit 8200 of the IDF.
@@ -87,7 +87,7 @@ These networks were deliberately not upgraded from 2G, a protocol that offers le
 
 _source_: [Introduction to mobile network intrusions from a mobile phone](https://medium.com/mobile-stacks-and-networks-security/introduction-to-mobile-network-intrusions-from-a-mobile-phone-9a8e909cc276)
 
-As shown in the above diagram, the architecture changed from 2G onwards. The introduction of Data Networks to the 3G architecture would support E2EE. This would seem to explain the following justification from the security forces.
+As shown in the above diagram, the architecture changed from 2G onwards. The introduction of Data Networks to the 3G architecture would improve support for E2EE. This would seem to explain the following justification from the security forces.
 
 > “Israel” claims that granting advanced communication technologies to Gaza could enhance the ability of armed factions to coordinate, plan, and carry out attacks
 
@@ -192,7 +192,7 @@ A satellite network will be easier to implement than a mobile network, offer gre
 * An operational license between the satellite provider (e.g. Starlink) and Israel authorities
 * Palestinians that are whitelisted to be supplied a router and access to control software
 
-A regional version of the router control software MAY be required. For example, to enforce access from a known network (+970) and identify phone numbers against the whitelist.
+A regional version of the router control software MAY also be required. For example, to enforce access from a known network (+970) and identify phone numbers against the whitelist.
 
 Non-technical users MUST be able to verify that their devices are free from Spyware (Pegasus). To assist, a detect and removal service SHOULD be provided. The [Mobile Verification Toolkit](https://docs.mvt.re/en/latest/) has been developed by the Amnesty International Security Lab to combat Pegasus. The toolkit requires expertise, so end-user spport will be essential.
 
@@ -201,8 +201,8 @@ Resolving the Middle-East conflict often feels hopeless.
 If implemented, how would this proposal to _Communicate Without Surveillance_ actually help?
 Communication and Privacy are at the heart of all human relations.
 Furthermore, digital communication has evolved rapidly and become an essential part of modern life.
-Privacy is not however, a component of the latest peace plan, although
-[Trump's 20-point Gaza peace plan](https://www.bbc.com/news/articles/c70155nked7o) provides some opportunities (point 10).
+Privacy is not however, a component of the latest peace plan (although
+[Trump's 20-point Gaza peace plan](https://www.bbc.com/news/articles/c70155nked7o) provides some opportunities, seepoint 10).
 The scope of this proposal is limited, but it does offer some hope for the future; privacy and a degree of dignity to Palestinians and an
 an opportunity for Israel to show compliance with international standards. Please support the proposal.
 
