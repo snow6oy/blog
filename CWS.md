@@ -12,7 +12,7 @@ In practise however, this is largely an aspirational standard. Government implem
 
 Terrorism is a legitmate aim.
 
-In the case of Israel and Palestine inequality exists as the Palestinians are not entitled to use the same infrastructure as Israeli citizens. This affects the privacy rights of the Palestinians. For example, this report by the Boycott, Disinvest, Sanction (BDS) movment [Israeli Spyware Facilitates Human Rights Violations](https://bdsmovement.net/israeli-spyware-facilitates-human-rights-violations) describes how Spyware targetted 50,000 people. Aside from privacy concerns, the networks serving the occupied territories are unreliable due to outdated protocols (2G) and may be not be available due to bombing and power blackouts.
+In the case of Israel and Palestine inequality exists. For example the Palestinians are not entitled to use the same infrastructure as Israeli citizens. This affects the privacy rights of the Palestinians. For example, this report by the Boycott, Disinvest, Sanction (BDS) movement [Israeli Spyware Facilitates Human Rights Violations](https://bdsmovement.net/israeli-spyware-facilitates-human-rights-violations) describes how Spyware targetted 50,000 people. Aside from privacy concerns, the networks serving the occupied territories are unreliable due to outdated protocols (2G) and may be not be available due to bombing and power blackouts.
 
 ## Israeli regulation and digital communication
 To make the case for _Communication Without Surveillance_ we must first outline  the regulatory framework and operational context in which communications are taking place.
@@ -21,11 +21,11 @@ To make the case for _Communication Without Surveillance_ we must first outline 
 
 [Unit 8200](https://www.reuters.com/world/middle-east/what-is-israels-secretive-cyber-warfare-unit-8200-2024-09-18/) is the equivalent of the U.S. National Security Agency or Britain's GCHQ, and is the largest single military unit in the Israel Defence Force (IDF).
 
-Israel Security Forces are bound by WireTapping and SpyWare laws. The Wiretap Act (1979) demands that interception is approved. In 2021 the courts approved (white-washed) more than 99 percent of cases. 
+The Israel Security Forces are bound by WireTapping and SpyWare laws. The Wiretap Act (1979) demands that interception is approved. In 2021 the courts approved (white-washed) more than 99 percent of cases. 
 
 _source_: [Israel’s Spyware Law: A Step Towards Authoritarianism?](https://www.giga-hamburg.de/en/publications/giga-focus/israel-s-spyware-law-a-step-towards-authoritarianism)
 
-The SpyWare Law is an extension to the WireTapping law. The amendment would permit the installation of spyware on a mobile device to become legally equivalent to setting-up a microphone in a person's home. The amendment has received conditional approval from the Government of Israel.
+The SpyWare Law is an extension to the WireTapping law. The extension would permit the installation of spyware on a mobile device to become legally equivalent to setting-up a microphone in a person's home. The amendment has received conditional approval from the Government of Israel.
 
 This move by the Israeli Government comes at a time 
 [when the use of Spyware by the United States Government](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/03/27/fact-sheet-president-biden-signs-executive-order-to-prohibit-u-s-government-use-of-commercial-spyware-that-poses-risks-to-national-security/) has been prohibited. The US have taken these steps to protect civil rights, given new threats arising from the use of Spyware by US agencies.
@@ -202,7 +202,7 @@ If implemented, how would this proposal to _Communicate Without Surveillance_ ac
 Communication and Privacy are at the heart of all human relations.
 Furthermore, digital communication has evolved rapidly and become an essential part of modern life.
 Privacy is not however, a component of the latest peace plan (although
-[Trump's 20-point Gaza peace plan](https://www.bbc.com/news/articles/c70155nked7o) provides some opportunities, seepoint 10).
+[Trump's 20-point Gaza peace plan](https://www.bbc.com/news/articles/c70155nked7o) provides some opportunities, see point 10).
 The scope of this proposal is limited, but it does offer some hope for the future; privacy and a degree of dignity to Palestinians and an
 an opportunity for Israel to show compliance with international standards. Please support the proposal.
 
@@ -211,12 +211,10 @@ an opportunity for Israel to show compliance with international standards. Pleas
 
 | Version | Change description |
 | --- | --- |
-| 1.1 | Shared with israelpalestine@amnesty.org |
+| 1.1 | Shared with Amnesty International <israelpalestine@amnesty.org> |
 | 1.0 | Initial release to https://github.com/snow6oy/blog/CWS.md |
 
 #### About the author
 
 * [Gavin Johnson](https://www.linkedin.com/in/gavinjohnson/) is an experienced Software Engineer and a beginner 
 in Human Rights activism.
-
-
